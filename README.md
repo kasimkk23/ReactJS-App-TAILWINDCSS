@@ -1,5 +1,10 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This web app coded in ReactJS and TailWindCSS
+Used MockAPI to fetch data
+
+Some of the custom component is also with this repo.
+
 ## Available Scripts
 
 In the project directory, you can run:
